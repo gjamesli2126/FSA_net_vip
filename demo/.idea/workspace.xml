@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1105e126-9d5a-4d46-a047-351c2f77d0b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/FSA-Net.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0/TYY_create_db_biwi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0/TYY_create_db_biwi_70_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0/type1/AFLW2000.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0/type1/TYY_create_db_type1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0/type1/run_created_db_type1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myrun_demo_FSANET_ssd.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0191.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/TYY_create_db_biwi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data/TYY_create_db_biwi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/TYY_create_db_biwi_70_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data/TYY_create_db_biwi_70_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/type1/TYY_create_db_type1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data/type1/TYY_create_db_type1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/type1/run_created_db_type1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../data/type1/run_created_db_type1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_FSANET_ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_FSANET_ssd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/FSANET_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/FSANET_model.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SZAGj55Ult6gmpTOjci5vWbrgK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1105e126-9d5a-4d46-a047-351c2f77d0b3" name="Default Changelist" comment="" />
+      <created>1571760650552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571760650552</updated>
+      <workItem from="1571760651878" duration="7000" />
+      <workItem from="1571882868680" duration="1250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
